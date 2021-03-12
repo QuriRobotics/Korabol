@@ -32,6 +32,8 @@ int WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance,
                 window.close();
         }
 
+        int a;
+
         window.clear();
 
         window.draw(sphere);
